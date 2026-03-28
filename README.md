@@ -26,3 +26,23 @@ If you are the original creator and would like proper attribution or removal, pl
 ## ✨ Tools
 
 📂 **OrganHxAPI**
+📂OrganHxAPI/
+├── 📜AnthraxCleaner.exe # Rec Room Cleaner (unverified)
+├── 📜consumables.exe # Consumables in custom rooms
+├── 📜currency.exe # Currency in custom rooms
+├── 📜keys.exe # Unknown functionality
+├── 📜Leaderboard.exe # Leaderboard manipulation
+├── 📜requestspam.exe # Friend request spam tool
+├── 📜RoomCloning.exe # Room cloning tool
+├── 📜RROBoxes.exe # Adds RRO boxes to inventory
+└── 📜RROCurrency.exe # Loops RRO currency addition every 60s
+
+⚠️ **Descriptions may be inaccurate** as the tools have not been fully tested.  
+If you discover correct functionality, feel free to submit a Pull Request.
+
+---
+
+## 📌 Disclaimer
+
+This repository is shared for archival and educational purposes only.  
+Use responsibly and at your own risk.
