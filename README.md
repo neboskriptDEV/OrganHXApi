@@ -7,7 +7,6 @@ Originally posted in the Moka Private Discord server.
   <img src="https://img.shields.io/badge/Python-3.9+-blue.svg">
   <img src="https://img.shields.io/badge/API-Rec.Net-orange">
   <img src="https://img.shields.io/badge/Status-Active-success">
-  <img src="https://img.shields.io/badge/License-MIT-green">
 </p>
 
 ---
