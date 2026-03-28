@@ -14,7 +14,7 @@ Originally posted in the Moka Private Discord server.
 
 ## ⚠️ Important Notice
 
-**I am NOT the original creator of these tools.**  
+**I am NOT the original creator of these tools. And I well NEVER provide official support to any of these tools.**  
 **I do NOT take responsibility for any misuse or potential malicious behavior of the provided files.**
 
 Full credit belongs to the original developer(s), including Organ Harvester and others.
