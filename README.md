@@ -26,7 +26,6 @@ If you are the original creator and would like proper attribution or removal, pl
 ## ✨ Tools
 
 📂 **OrganHxAPI**
-📂OrganHxAPI/
 ├── 📜AnthraxCleaner.exe # Rec Room Cleaner (unverified)
 ├── 📜consumables.exe # Consumables in custom rooms
 ├── 📜currency.exe # Currency in custom rooms
